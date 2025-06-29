@@ -118,3 +118,9 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer components {
+  .section-padding {
+    @apply mt-25;
+  }
+}

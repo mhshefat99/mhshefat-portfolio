@@ -1,3 +1,3 @@
 export default function About() {
-  return <div>About page</div>;
+  return <div className="pt-25">About page</div>;
 }

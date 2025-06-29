@@ -1,3 +1,3 @@
 export default function Blog() {
-  return <div>Blog page</div>;
+  return <div className="pt-25">Blog page</div>;
 }
